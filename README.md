@@ -29,7 +29,10 @@ People can add this file and you can feel better.
 
 * mem: 32GB
 
+* docker desktop version : Docker Desktop 4.6.1 (76265)
+
 # Donation Info :)
+
 > ETH ADDRESS: 0xBE9a9f224b0F7218A9Aa4DC937202F44cB6fb0F9
 
 > BNB ADDRESS: 0xBE9a9f224b0F7218A9Aa4DC937202F44cB6fb0F9
